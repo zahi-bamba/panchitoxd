@@ -1,0 +1,44 @@
+.pancito-color{
+    width:15cm ;height:3cm ;
+    background-color: rgba(243, 148, 25, 0.623);
+
+
+}
+
+#pancito-up{
+    
+    border-top-right-radius: 90px;
+    border-bottom-right-radius: 20px;
+    
+    border-top-left-radius: 90px;
+    border-bottom-left-radius: 20px;
+
+    border-bottom: solid 15px rgba(121, 35, 88, 0.342);
+}
+
+
+#salchicha-medium{
+    width: 580px;
+    height: 80px;
+    background-color: rgba(165, 42, 42, 0.89);
+
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+
+
+#pancito-down{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 90px;
+
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 90px;
+    
+    border-top: solid 15px rgba(121, 87, 35, 0.342);
+
+
+}
